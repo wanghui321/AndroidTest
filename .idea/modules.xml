@@ -5,9 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/AndroidTest.iml" filepath="$PROJECT_DIR$/.idea/AndroidTest.iml" />
       <module fileurl="file://E:\androiddemo\AndroidTest\AndroidTest.iml" filepath="E:\androiddemo\AndroidTest\AndroidTest.iml" />
       <module fileurl="file://D:\AndroidWorkspace\AndroidTest\.idea\AndroidTest.iml" filepath="D:\AndroidWorkspace\AndroidTest\.idea\AndroidTest.iml" />
+      <module fileurl="file://D:\AndroidTest\.idea\AndroidTest.iml" filepath="D:\AndroidTest\.idea\AndroidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\AndroidWorkspace\AndroidTest\app\app.iml" filepath="D:\AndroidWorkspace\AndroidTest\app\app.iml" />
+      <module fileurl="file://D:\AndroidTest\app\app.iml" filepath="D:\AndroidTest\app\app.iml" />
       <module fileurl="file://E:\androiddemo\AndroidTest\app\app.iml" filepath="E:\androiddemo\AndroidTest\app\app.iml" />
+      <module fileurl="file://D:\AndroidWorkspace\AndroidTest\app\app.iml" filepath="D:\AndroidWorkspace\AndroidTest\app\app.iml" />
     </modules>
   </component>
 </project>
